@@ -11,7 +11,7 @@
 <br>
 
 ### 🛠 Languages and Tools
-<h3> 점차 배우는 중 </h3>
+<h3> 하나씩 탄탄하게 배워 나가는 중 </h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> 
