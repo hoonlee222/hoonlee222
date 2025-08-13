@@ -40,7 +40,7 @@
 <br>
 
 ### 🎓 Education
-<p> KD Academy  | 25.02.27 ~ 25.08.20 </p>
+<p> KD Academy  | 25.02 ~ 25.08 </p>
 
 
     
