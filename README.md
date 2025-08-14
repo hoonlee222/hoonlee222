@@ -35,7 +35,7 @@
 <br>
 
 ### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+<p> 기업의 업무 자동화(RPA, 챗GPT)플랫폼(JAVA, Spring)</p>
 
 <br>
 
